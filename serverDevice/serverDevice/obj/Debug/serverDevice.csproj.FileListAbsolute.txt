@@ -1,0 +1,92 @@
+D:\ITI\Projects\C#\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe.config
+D:\ITI\Projects\C#\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe
+D:\ITI\Projects\C#\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.pdb
+D:\ITI\Projects\C#\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csprojAssemblyReference.cache
+D:\ITI\Projects\C#\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Properties.Resources.resources
+D:\ITI\Projects\C#\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.GenerateResource.cache
+D:\ITI\Projects\C#\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.CoreCompileInputs.cache
+D:\ITI\Projects\C#\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.exe
+D:\ITI\Projects\C#\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.pdb
+D:\ITI\Projects\C#\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Server.resources
+D:\ITI\Projects\C#\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.ServerConfig.resources
+C:\Users\basma\OneDrive\Desktop\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe.config
+C:\Users\basma\OneDrive\Desktop\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe
+C:\Users\basma\OneDrive\Desktop\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.pdb
+C:\Users\basma\OneDrive\Desktop\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csprojAssemblyReference.cache
+C:\Users\basma\OneDrive\Desktop\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Server.resources
+C:\Users\basma\OneDrive\Desktop\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Properties.Resources.resources
+C:\Users\basma\OneDrive\Desktop\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.ServerConfig.resources
+C:\Users\basma\OneDrive\Desktop\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.GenerateResource.cache
+C:\Users\basma\OneDrive\Desktop\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.CoreCompileInputs.cache
+C:\Users\basma\OneDrive\Desktop\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.exe
+C:\Users\basma\OneDrive\Desktop\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.pdb
+D:\ITI\Projects\C#\Final project\basma\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe.config
+D:\ITI\Projects\C#\Final project\basma\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe
+D:\ITI\Projects\C#\Final project\basma\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.pdb
+D:\ITI\Projects\C#\Final project\basma\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csprojAssemblyReference.cache
+D:\ITI\Projects\C#\Final project\basma\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Server.resources
+D:\ITI\Projects\C#\Final project\basma\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Properties.Resources.resources
+D:\ITI\Projects\C#\Final project\basma\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.ServerConfig.resources
+D:\ITI\Projects\C#\Final project\basma\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.GenerateResource.cache
+D:\ITI\Projects\C#\Final project\basma\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.CoreCompileInputs.cache
+D:\ITI\Projects\C#\Final project\basma\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.exe
+D:\ITI\Projects\C#\Final project\basma\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.pdb
+D:\برمجه\c#\Project\Final project (3)\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe.config
+D:\برمجه\c#\Project\Final project (3)\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe
+D:\برمجه\c#\Project\Final project (3)\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.pdb
+D:\برمجه\c#\Project\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csprojAssemblyReference.cache
+D:\برمجه\c#\Project\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Server.resources
+D:\برمجه\c#\Project\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Properties.Resources.resources
+D:\برمجه\c#\Project\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.ServerConfig.resources
+D:\برمجه\c#\Project\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.GenerateResource.cache
+D:\برمجه\c#\Project\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.CoreCompileInputs.cache
+D:\برمجه\c#\Project\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.exe
+D:\برمجه\c#\Project\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.pdb
+D:\ITI\Projects\C#\Final project (3)\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe.config
+D:\ITI\Projects\C#\Final project (3)\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe
+D:\ITI\Projects\C#\Final project (3)\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.pdb
+D:\ITI\Projects\C#\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csprojAssemblyReference.cache
+D:\ITI\Projects\C#\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Server.resources
+D:\ITI\Projects\C#\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Form2.resources
+D:\ITI\Projects\C#\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Properties.Resources.resources
+D:\ITI\Projects\C#\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.ServerConfig.resources
+D:\ITI\Projects\C#\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.GenerateResource.cache
+D:\ITI\Projects\C#\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.CoreCompileInputs.cache
+D:\ITI\Projects\C#\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.exe
+D:\ITI\Projects\C#\Final project (3)\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.pdb
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe.config
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.pdb
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csprojAssemblyReference.cache
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Server.resources
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Form2.resources
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Properties.Resources.resources
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.ServerConfig.resources
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.GenerateResource.cache
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.exe
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.pdb
+C:\Users\Ashraf\Downloads\isaaaa\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe.config
+C:\Users\Ashraf\Downloads\isaaaa\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe
+C:\Users\Ashraf\Downloads\isaaaa\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.pdb
+C:\Users\Ashraf\Downloads\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csprojAssemblyReference.cache
+C:\Users\Ashraf\Downloads\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Server.resources
+C:\Users\Ashraf\Downloads\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Form2.resources
+C:\Users\Ashraf\Downloads\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Properties.Resources.resources
+C:\Users\Ashraf\Downloads\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.ServerConfig.resources
+C:\Users\Ashraf\Downloads\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.GenerateResource.cache
+C:\Users\Ashraf\Downloads\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.CoreCompileInputs.cache
+C:\Users\Ashraf\Downloads\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.exe
+C:\Users\Ashraf\Downloads\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.pdb
+C:\Users\Ashraf\Desktop\isaaaa\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe.config
+C:\Users\Ashraf\Desktop\isaaaa\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.exe
+C:\Users\Ashraf\Desktop\isaaaa\Final project\serverDevice\serverDevice\bin\Debug\serverDevice.pdb
+C:\Users\Ashraf\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csprojAssemblyReference.cache
+C:\Users\Ashraf\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Server.resources
+C:\Users\Ashraf\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Form2.resources
+C:\Users\Ashraf\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.Properties.Resources.resources
+C:\Users\Ashraf\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.ServerConfig.resources
+C:\Users\Ashraf\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.GenerateResource.cache
+C:\Users\Ashraf\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.csproj.CoreCompileInputs.cache
+C:\Users\Ashraf\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.exe
+C:\Users\Ashraf\Desktop\isaaaa\Final project\serverDevice\serverDevice\obj\Debug\serverDevice.pdb
